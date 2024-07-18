@@ -1,0 +1,20 @@
+import time
+meme_dict = {
+    "CRINGE": "Algo excepcionalmente raro o embarazoso",
+    "LOL": "Una respuesta común a algo gracioso",
+    "ROFL": "Una respuesta a una broma",
+    "SHEESH": "ligera desaprobación",
+    "CREEPY": "aterrador, siniestro",
+    "AGGRO": "ponerse agresivo/enojado",
+}
+
+while True:
+    time.sleep(1)
+    print("Bienvenido al diccionario cibernético!")
+    time.sleep(1)
+    word = input("Escribe una palabra que no entiendas (¡Con Mayúsculas!:")
+    time.sleep(1)
+    if word in meme_dict: 
+        print(meme_dict[word])
+    else:
+        print("La palabra no está en el diccionario.")
