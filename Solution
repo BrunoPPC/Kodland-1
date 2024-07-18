@@ -3,9 +3,14 @@ meme_dict = {
     "CRINGE": "Algo excepcionalmente raro o embarazoso",
     "LOL": "Una respuesta común a algo gracioso",
     "ROFL": "Una respuesta a una broma",
-    "SHEESH": "ligera desaprobación",
-    "CREEPY": "aterrador, siniestro",
-    "AGGRO": "ponerse agresivo/enojado",
+    "SHEESH": "Ligera desaprobación",
+    "CREEPY": "Aterrador, siniestro",
+    "AGGRO": "Ponerse agresivo/enojado",
+    "DIY": "Hazlo tu mismo",
+    "ASAP": "Lo antes posible",
+    "FYI": "Para tu información",
+    "BTW": "Por cierto",
+    "PC": "Computadora personal",
 }
 
 while True:
